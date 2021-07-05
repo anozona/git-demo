@@ -1,1 +1,3 @@
-Hi this is the first git demo file
+Hi this is the first GIT demo file
+This is the second line
+This is the third lane
